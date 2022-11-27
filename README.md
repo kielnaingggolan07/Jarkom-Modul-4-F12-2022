@@ -35,7 +35,7 @@ Afiq Akram | 5025201270
 
 ### Pembagian IP
 
-<img width="741" alt="tree" src="https://user-images.githubusercontent.com/94334247/204120072-78b234a1-0fc1-4b7c-b233-ce43e6bfcd7f.PNG">
+![Diagram Tanpa Judul drawio](https://user-images.githubusercontent.com/94334247/204125617-aca39cee-5a68-4fa9-ae0e-4c6d7d29c817.png)
 
 > Dari pembagian IP tersebut bisa didapati tabel sebagai berikut:
 			
